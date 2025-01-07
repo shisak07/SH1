@@ -53,7 +53,7 @@ user_cooldowns = {}
 
 # MongoDB configuration
 MONGO_URI = "mongodb+srv://titanop24:titanop24@cluster0.qbdl8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Example: mongodb+srv://username:password@cluster.mongodb.net/
-DATABASE_NAME = "titanop24"
+DATABASE_NAME = "@SHIVAMXRAJ"
 
 # Connect to MongoDB
 client = MongoClient(MONGO_URI)
